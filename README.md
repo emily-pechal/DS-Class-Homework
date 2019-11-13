@@ -1,1 +1,1 @@
-# Python for Data Science-Labs
+# Python for Data Science Labs
